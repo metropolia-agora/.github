@@ -8,6 +8,6 @@
 
 ## Members
 
-- Sirja Kosonen
-- Ali Fahad
-- András Ádám
+- [Sirja Kosonen](https://github.com/sirjak)
+- [Ali Fahad](https://github.com/Ali-k-fahad)
+- [András Ádám](https://github.com/NeoAren)
