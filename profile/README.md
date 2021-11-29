@@ -14,6 +14,6 @@
 - [András Ádám](https://github.com/NeoAren)
 
 
-## DB diagram
+## Database diagram
 
 ![agora-db](https://user-images.githubusercontent.com/24866990/143937460-f7ab0a13-fa50-4792-b053-af4687b2e59c.png)
