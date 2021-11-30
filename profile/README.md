@@ -1,4 +1,3 @@
-
 # Agora
 
 > Agora *ag·o·ra*
