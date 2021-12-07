@@ -15,4 +15,4 @@
 
 ## Database diagram
 
-![agora-db](https://user-images.githubusercontent.com/24866990/143937460-f7ab0a13-fa50-4792-b053-af4687b2e59c.png)
+![agora-db](https://user-images.githubusercontent.com/71757052/145022322-848bc015-0cd6-451a-bc10-28b6da760e4d.png)
